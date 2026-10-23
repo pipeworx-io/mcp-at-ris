@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-at-ris",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Austria — consolidated federal law and case law, from the Bundeskanzleramt's Rechtsinformationssystem (RIS) open government data service.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-162175bca3adaa6b11c952f4033f0142ab0a4312ec2e28ef2186b6cacd047683",
-    "sourceCommit": "fe38188882d0fe91e5a45d82b7b989b4aae1e8b6"
+    "sourceHash": "v1-14360ddaaf88ee28d68d01b14a4dbe3ec1570f52652f90d776f913a5a4202e6d",
+    "sourceCommit": "93c7d52ace03a2bb9aee5e6024f6858adab0dd04"
   }
 }
